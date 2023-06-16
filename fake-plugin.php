@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Fake Plugin
  * Plugin URI: N\A
- * Description: Helps debugging issues
+ * Description: Used mainly to debug plugins in the updater; 
  * Version: 0.0.0
  * Author: Petar Stoyanov
  * Author URI: scratchmm.com
