@@ -3,7 +3,7 @@
  * Plugin Name: Fake Plugin
  * Plugin URI: N\A
  * Description: Used mainly to debug plugins in the updater; 
- * Version: 0.0.3
+ * Version: 0.0.4
  * Author: Petar Stoyanov
  * Author URI: scratchmm.com
  * Text Domain: wp-logger
@@ -16,7 +16,7 @@ class FakePlugin
 
 	public function __construct()
 	{
-		$this-property = "property";
+		$this->property = "property";
 	}
 }
 
