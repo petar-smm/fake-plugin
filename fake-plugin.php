@@ -3,7 +3,7 @@
  * Plugin Name: Fake Plugin
  * Plugin URI: N\A
  * Description: Used mainly to debug plugins in the updater; 
- * Version: 0.0.4
+ * Version: 0.0.5
  * Author: Petar Stoyanov
  * Author URI: scratchmm.com
  * Text Domain: wp-logger
