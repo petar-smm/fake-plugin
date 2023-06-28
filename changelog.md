@@ -1,3 +1,6 @@
+### Version 0.0.6
+Increased version
+
 ### Version 0.0.5
 Added readme and changelog
 
